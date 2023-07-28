@@ -1,5 +1,5 @@
 # DS250723_Python
-Python-DS290423
+Python-DS250723
 Steps to access this repository
 
 Download and Install Git Bash in your desktop (https://git-scm.com/downloads - link to download for git bash)
